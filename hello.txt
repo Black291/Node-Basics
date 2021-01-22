@@ -1,0 +1,1 @@
+User "${user.username}" started APP at ${date}User "${user.username}" started APP at ${date}User "${user.username}" started APP at ${date}User "${user.username}" started APP at ${date}
